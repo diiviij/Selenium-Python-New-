@@ -2,9 +2,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
-<div align="right">
-  <img src="[
-](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg)" height="40" width="52" alt="python logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
 ###
@@ -20,14 +19,6 @@
 ###
 
 <h2 align="left">#Drivers</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-</div>
-
-###
 
 <p align="left">Selenium requires a driver to interface with the chosen browser. Firefox, for example, requires geckodriver, which needs to be installed before the below examples can be run. Make sure it’s in your PATH, e. g., place it in /usr/bin or /usr/local/bin.</p>
 
