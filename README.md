@@ -33,7 +33,12 @@
   <a href="https://github.com/diiviij/Selenium-Python-New-/blob/main/run.py">Direct View<</a>
 
 
-<h2>Will update this Repo on regular basis, Please Stay tune !!</h2>
-
+How to use:
+Install requirements using terminal or command line. You should run this command pip install -r requirements.txt.
+Create a .env file in the current directory and add ig username and password as explained in the first comment in run.py
+Open a terminal or cmd again and run the bot using this command: python run.py.
+Enter the username of the person whose followers you want to scrape.
+Enter how many followers you want to scrape.
+And that's it. After a while, you will find the list of usernames in a text file in the bot folder.
 
 ###
