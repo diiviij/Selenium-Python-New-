@@ -30,7 +30,7 @@
 ###
 
 <h2>Instagram-Follower-Scraper<h/2>
-<link href="https://github.com/diiviij/Selenium-Python-New-/blob/main/run.py">
+  <a href="https://github.com/diiviij/Selenium-Python-New-/blob/main/run.py">Direct View<</a>
 
 
 <h2>Will update this Repo on regular basis, Please Stay tune !!</h2>
